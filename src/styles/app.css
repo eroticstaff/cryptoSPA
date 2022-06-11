@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+.main {
+  color: black;
+  width: 1000px;
+  font-family: "Roboto", sans-serif;
+  height: 100%;
+}
+.toolbar {
+  font-family: "Grape Nuts", cursive;
+  font-size: 30rem;
+  color: white;
+  text-align: center;
+  background-color: #26a69a;
+}
+.converter-container {
+  margin-top: 20px;
+}
+
+.t_icon {
+  margin-bottom: 7px;
+}
+.centered {
+  position: fixed;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.currency_item {
+  width: 100%;
+}
+.currency_list {
+  width: 100%;
+}
+.currency_card__content {
+  height: 80px;
+}
+
+.currency_card {
+  margin-top: 10px;
+}
+
+.converter {
+  padding: 30px;
+  padding-top: 20px;
+}
+
+.tab_title {
+  font-family: "Roboto", sans-serif;
+  color: #26a69a;
+  font-size: 40px;
+}
